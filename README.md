@@ -1,2 +1,9 @@
 # HDV_pipeline
-Pipeline for detection and characterization of mutations in HDV genome
+Пайплайн для поиска и описания мутаций в геноме HDV
+
+TODO:
+* Дописать пайплайн в Jupyter notebook
+* Создать начальные директории
+* Положить файлы референсных последовательностей
+* Написать install.sh для установки зависимостей
+
